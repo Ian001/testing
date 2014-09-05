@@ -1,24 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Clients</title>
-
-    <link rel="stylesheet" type="text/css" href="styles.css">
-
+   <meta charset="UTF-8">
+   <title>Clients</title>
+   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-	
     <header>
-   	
-        <h1 class="logo">Logo</h1>
-        <nav>
-      	    <ul>      		
-                <li><a href="index.php">Home</a></li>
-                <li><a href="downloads">Downloads</a></li>
-                <li><a href="clients">Clients</a></li>
-                <li><a href="Contact">Contact</a></li>
-         	</ul>
+       <h1 class="logo">Logo</h1>
+       <nav>
+      	<ul>      		
+            <li><a href="index.php">Home</a></li>
+            <li><a href="downloads">Downloads</a></li>
+            <li><a href="clients">Clients</a></li>
+            <li><a href="Contact">Contact</a></li>
+        </ul>
         </nav>
     </header>
     <div id="container">
